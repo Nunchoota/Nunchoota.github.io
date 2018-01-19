@@ -6,6 +6,7 @@
  *    user zoom.
  */
 
+ /*Wakka*/
 
 html {
   font-family: sans-serif; /* 1 */
@@ -447,9 +448,9 @@ th {
 [class*="col-"] {
   padding: 10px;
 }
- 
+
 @media all and ( min-width: 600px ) {
- 
+
   .col-2-3 {
     float: left;
     width: 66.66%;
@@ -470,7 +471,7 @@ th {
     float: left;
     width: 12.5%;
   }
- 
+
 }
 
 .book-links {

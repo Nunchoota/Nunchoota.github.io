@@ -1,3 +1,5 @@
+/*Wakka*/
+
 .fixed-top {
 	position: fixed;
 	top: 0;
@@ -56,12 +58,12 @@ header .sb-toggle-left {
 	padding-bottom: 8px;
 }
 
-h2[id]:before { 
-  display: block; 
-  content: " "; 
-  margin-top: -100px; 
-  height: 100px; 
-  visibility: hidden; 
+h2[id]:before {
+  display: block;
+  content: " ";
+  margin-top: -100px;
+  height: 100px;
+  visibility: hidden;
 }
 
 .linkbox {
